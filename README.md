@@ -1,2 +1,2 @@
 # angular-crud
-Crud baseado nas aulas da Loaine grunger,Angular + Spring
+Crud baseado nas aulas da Loaine Groner,Angular + Spring
